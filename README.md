@@ -1,23 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Me2XBaYk)
-# 💰 Pricing Page with Tailwind CSS
-
-![My Image Description](https://file.notion.so/f/f/10b250a7-1795-47bb-8d57-8650ed84f582/6844785a-755c-4603-9909-3b8fe9119a5f/Screenshot_2023-09-28_at_2.34.48_AM.png?id=09a0ccdf-786a-4034-8ae5-f85b60b564fd&table=block&spaceId=10b250a7-1795-47bb-8d57-8650ed84f582&expirationTimestamp=1696068000000&signature=9X7W4dp0mo0OGeZiPBQWAM9GHI9dKXdfRlSl3YgcNj4&downloadName=Screenshot+2023-09-28+at+2.34.48+AM.png)
-
-## Overview:
-
-Develop a responsive pricing page using Tailwind CSS. The page will consist of three pricing plans: Basic, Plus, and Pro. The Plus plan should stand out as the "Most Popular" choice.
-
-## 📝 General Instructions
-
-1. **Starting Point**: The provided `index.html` comes with an empty body. Your main task is to structure the content using appropriate semantic HTML elements. This will lay the foundation for the subsequent Tailwind CSS styling.
-
-2. **Styling with Tailwind**: For styling, use ONLY Tailwind CSS classes. Refrain from writing custom CSS. The Tailwind documentation will be instrumental for this task, so ensure you have it handy.
-
-3. **Responsiveness**: Your design should be mobile-responsive. As you craft the page, frequently check its appearance on different screen sizes, including mobile, tablet, and desktop views. Make use of TailwindCSS responsive modifiers (`sm:`, `md:`, `lg:`) to adjust the design based on these breakpoints.
-
-4. **Review**: After completing the exercise, thoroughly inspect your page to confirm it aligns with all the stipulated requirements. Always prioritize clean, organized, and commented code where necessary.
-
----
 
 ## 🎨 Design Requirements
 
@@ -128,14 +108,3 @@ Each card should include the following:
 - Padding: Vertical 3 units, Horizontal 6 units.
 - Shadow: Extra large.
 - Hover effect: Background color transitions to Indigo-600.
-
-## Responsiveness:
-
-- The page must be mobile-responsive.
-- Use TailwindCSS responsive modifiers (`sm:`, `md:`, `lg:`) to adjust the layout based on breakpoints.
-
-## Deliverables:
-
-- The final HTML for the pricing page.
-- Don’t use any plugins.
-- Don’t make any customizations to the Tailwind config (use the default config).
