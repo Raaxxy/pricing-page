@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^4.3.10",
     "jsdom": "^22.1.0"
   },
   "devDependencies": {
     "@types/node": "^20.7.1",
+    "chai": "^4.3.10",
     "mocha": "^10.2.0"
   }
 }
